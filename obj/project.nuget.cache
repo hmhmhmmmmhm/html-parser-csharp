@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bVQ5nT2sjK8=",
+  "dgSpecHash": "yW3oY1FmBd0=",
   "success": true,
-  "projectFilePath": "D:\\c#\\HTML parser\\HTMLParser\\HTMLParser.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

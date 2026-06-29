@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\HTML parser\\HTMLParser\\HTMLParser.csproj": {}
+    "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj": {}
   },
   "projects": {
-    "D:\\c#\\HTML parser\\HTMLParser\\HTMLParser.csproj": {
+    "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\HTML parser\\HTMLParser\\HTMLParser.csproj",
+        "projectUniqueName": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
         "projectName": "HTMLParser",
-        "projectPath": "D:\\c#\\HTML parser\\HTMLParser\\HTMLParser.csproj",
-        "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\HTML parser\\HTMLParser\\obj\\",
+        "projectPath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
+        "packagesPath": "/Users/daniil/.nuget/packages/",
+        "outputPath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/daniil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -37,10 +38,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -53,12 +56,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
