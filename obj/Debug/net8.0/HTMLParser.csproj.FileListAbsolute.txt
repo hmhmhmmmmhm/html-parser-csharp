@@ -1,0 +1,14 @@
+D:\c#\HTML parser\HTMLParser\bin\Debug\net8.0\HTMLParser.exe
+D:\c#\HTML parser\HTMLParser\bin\Debug\net8.0\HTMLParser.deps.json
+D:\c#\HTML parser\HTMLParser\bin\Debug\net8.0\HTMLParser.runtimeconfig.json
+D:\c#\HTML parser\HTMLParser\bin\Debug\net8.0\HTMLParser.dll
+D:\c#\HTML parser\HTMLParser\bin\Debug\net8.0\HTMLParser.pdb
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.AssemblyInfoInputs.cache
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.AssemblyInfo.cs
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.csproj.CoreCompileInputs.cache
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.dll
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\refint\HTMLParser.dll
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.pdb
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\HTMLParser.genruntimeconfig.cache
+D:\c#\HTML parser\HTMLParser\obj\Debug\net8.0\ref\HTMLParser.dll
