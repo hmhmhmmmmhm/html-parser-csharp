@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/daniil/.nuget/packages/": {}
+    "C:\\Users\\mamenchikov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
+      "projectUniqueName": "C:\\С#\\Контрольные точки\\html-parser-csharp\\HTMLParser.csproj",
       "projectName": "HTMLParser",
-      "projectPath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
-      "packagesPath": "/Users/daniil/.nuget/packages/",
-      "outputPath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/obj/",
+      "projectPath": "C:\\С#\\Контрольные точки\\html-parser-csharp\\HTMLParser.csproj",
+      "packagesPath": "C:\\Users\\mamenchikov\\.nuget\\packages\\",
+      "outputPath": "C:\\С#\\Контрольные точки\\html-parser-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/daniil/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mamenchikov\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -68,11 +68,15 @@
             "version": "[8.0.28, 8.0.28]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[8.0.28, 8.0.28]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[8.0.28, 8.0.28]"
           }
         ],
@@ -81,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

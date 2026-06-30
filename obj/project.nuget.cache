@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yW3oY1FmBd0=",
+  "dgSpecHash": "C2Yqc+Dna40=",
   "success": true,
-  "projectFilePath": "/Users/daniil/Documents/HTML Parser/html-parser-csharp/HTMLParser.csproj",
+  "projectFilePath": "C:\\С#\\Контрольные точки\\html-parser-csharp\\HTMLParser.csproj",
   "expectedPackageFiles": [
-    "/Users/daniil/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
-    "/Users/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
-    "/Users/daniil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+    "C:\\Users\\mamenchikov\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\mamenchikov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\mamenchikov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\mamenchikov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }
